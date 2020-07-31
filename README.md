@@ -1,3 +1,5 @@
+> hates anime
+
 > likes programming
 
 > likes going against standards imposed by the society
