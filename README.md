@@ -7,7 +7,7 @@
 	-> transfarmer (2019; pun on "transformer")
 	-> access transfarmer (2020; pun on "access transformer")
 	-> auoeke tjmnkrajyej (2020; Vigenére cipher with key "asm")
-	┬-> auoeke (2021; former; pronounced /əˈwōk/)
+	┬-> auoeke (2021; pronounced /əˈwōk/)
 	└-> tjmnkrajyej (2022)
 </details>
 <details>
