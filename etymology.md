@@ -1,4 +1,6 @@
 ```
+nnym: anonym; a false name (2023)
+
 farmer (2016 or 2017; inside joke)
 -> transfarmer (2019; pun on "transformer")
 -> access transfarmer (2020; pun on "access transformer")
